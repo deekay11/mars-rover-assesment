@@ -1,7 +1,7 @@
 # Mars Rover Solution
 This project is a solution for the Mars Rover technical challenge. It consists of two main components: plateau and rover.
 
-##Assumptions
+## Assumptions
 
 The plateau size is predefined and is not expected to change during the program execution.
 The rover's instructions will always be valid and will not cause the rover to move outside the plateau boundaries.
