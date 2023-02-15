@@ -42,7 +42,6 @@ function spinLeft(position: Position): Position {
       throw new Error(`Invalid heading: ${heading}`);
   }
 }
-
 function spinRight(position: Position): Position {
   const { x, y, heading } = position;
   switch (heading) {
